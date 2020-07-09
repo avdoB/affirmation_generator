@@ -1,5 +1,8 @@
 const affirmations = [
      {
+          affirmation:"Indeed, with hardship [will be] ease.",
+          author:"Ash Sharh"
+     },
     affirmation:
       "If there’s a book that you want to read, but it hasn’t been written yet, then you must write it.",
     author: "Toni Morrison"
